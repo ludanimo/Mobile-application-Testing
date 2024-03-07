@@ -1,5 +1,8 @@
 # Mobile-application-Testing
 
+## Выбор устройств для тестирования
+[Link to list of devices](https://docs.google.com/spreadsheets/d/1zEnsyVGI7NXxHKAmRdXrWnu-gU7XK6vXlY49G9pWetY/edit?usp=sharing)
+
 ## 1. Регистрация нового пользователя:
       Шаги:
       1. Переход на главную страницу маркетплейса.
